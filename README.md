@@ -1,1 +1,1 @@
-# 8by8-matrix-heart-beating-arduini-
+# 8by8-matrix-heart-beating-arduino project
